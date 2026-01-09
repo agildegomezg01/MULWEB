@@ -6,6 +6,6 @@ El objetivo de este repositorio es servir como espacio de trabajo y seguimiento 
 
 |        NOMBRE       |   GITHUB                                             |
 |---------------------|------------------------------------------------------|
-|CarlaFernandezTaus (CFT)        |[Enlace](https://github.com/CarlaFernandezTaus/MULWEB)   |
-|Diegoalonsom07 (DAM) |[Enlace](https://github.com/Diegoalonsom07/MULWEB)|
-|Dabuss (DBM)        |[Enlace](https://github.com/Dabusss/MULWEB-DBM)       |
+|CarlaFernandezTaus (CFT)        |https://github.com/CarlaFernandezTaus/MULWEB)   |
+|Diegoalonsom07 (DAM) |https://github.com/Diegoalonsom07/MULWEB|
+|Dabuss (DBM)        |https://github.com/Dabusss/MULWEB-DBM       |
